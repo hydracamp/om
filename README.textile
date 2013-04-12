@@ -13,6 +13,8 @@ h2. Tutorials & Reference
 * "Tame Your XML with OM":https://github.com/projecthydra/om/wiki/Tame-your-XML-with-OM
 * "Common OM Patterns":https://github.com/projecthydra/om/blob/master/COMMON_OM_PATTERNS.textile
 
+h2. BLAH BLAH BLAH NEW TUTORIALS
+
 h3. Solrizing Documents
 
 The solrizer gem provides support for indexing XML documents into Solr based on OM Terminologies.  That process is documented in the "solrizer documentation":http://hudson.projecthydra.org/job/solrizer/Documentation/file.SOLRIZING_OM_DOCUMENTS.html
